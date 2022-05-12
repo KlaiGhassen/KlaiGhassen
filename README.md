@@ -7,6 +7,8 @@ Skills: Angular / Android / swift / HTML / CSS / flutter
 - 🔭 I’m currently working on improving my skills  
 - 🌱 I’m currently learning mobile development 
 - 📫 How to reach me: ghassen.klai@esprit.tn 
+- 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KlaiGhassen)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KlaiGhassen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ghassenklai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/xXGAsToNX)  
@@ -19,5 +21,4 @@ Skills: Angular / Android / swift / HTML / CSS / flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaiGhassen&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KlaiGhassen)  
 
