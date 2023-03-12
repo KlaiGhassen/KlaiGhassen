@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Klai Ghassen 
 #### I am full stack and mobile developer 
-I'm Ghassen from Tunisia, and I do web and mobile Development. I really enjoy learning languages and frameworks like flutter and swift , as well as work in Angular2. I also enjoy creating some thing from scratch,
+A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Angular2 / Nodejs and some other cool libraries and frameworks.
 
 Skills: Angular / Android / swift / HTML / CSS / flutter 
 
