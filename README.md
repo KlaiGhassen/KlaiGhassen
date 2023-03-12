@@ -13,5 +13,3 @@ Skills: Angular / Android / swift / HTML / CSS / flutter
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaiGhassen)](https://github.com/anuraghazra/github-readme-stats)
-
