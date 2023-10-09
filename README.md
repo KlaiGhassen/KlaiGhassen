@@ -22,7 +22,7 @@ A passionate Software Developer 🚀 having an experience of building Web and Mo
 - 📫 How to reach me: ghassen.klai@esprit.tn 
 - 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KlaiGhassen&show_icons=true&theme=gotham" alt="KlaiGhassen" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KlaiGhassen&show_icons=false&theme=gotham" alt="KlaiGhassen" />
 
 
 
