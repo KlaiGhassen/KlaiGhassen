@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Klai Ghassen 
-#### I am full stack and mobile developer 
 A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Angular2 / Nodejs and some other cool libraries and frameworks.
 
 ### 🔨 Languages and Tools:
